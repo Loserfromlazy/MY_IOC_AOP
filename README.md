@@ -5,3 +5,9 @@ TestBank为银行转账案例，为maven工程内置tomcat7插件，导入IDEA�
 
 TestBank_mybatis是对银行转账案例的持久层从jdbc改为mybatis。
 
+bank_info.sql是数据库构建文件。
+
+TestBank_IOC_AOP是使用自动逸IOCAOP改造后的工程
+
+[Spring学习笔记](https://www.cnblogs.com/yhr520/p/12554829.html)
+
