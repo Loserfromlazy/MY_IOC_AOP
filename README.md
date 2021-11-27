@@ -11,5 +11,5 @@
 - TestBank_IOC_AOP是通过手写IOCAOP改造后的工程。
 - TestBankWitnXML是使用Spring纯XML方式改造TestBank_IOC_AOP工程。
 
-[Spring学习笔记](https://www.cnblogs.com/yhr520/p/12554829.html)
+配合[Spring学习笔记](https://www.cnblogs.com/yhr520/p/12554829.html)食用更佳
 
