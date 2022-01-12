@@ -1,5 +1,5 @@
 # MY_IOC_AOP
-自定义IOC和AOP
+Spring学习项目
 
 通过银行转账demo从手写IOC到使用Spring（纯XML、XML+注释、纯注释）三种方式替代我们的手写IOC，通过这个过程学习和了解Spring。此工程的学习笔记地址在最下方。
 
